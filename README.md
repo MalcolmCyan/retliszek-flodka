@@ -20,3 +20,5 @@ Co tu robi Frąsiak i Tomek Skyrim
 Jak się włącza:
 
 npm run dev ; npm start
+
+Ta linia jest mi bardzo potrzebna żeby zrobić pull request
